@@ -15,8 +15,8 @@ Gives the table of algorithms checked and their accuracies in descending order.
 Suggests the best algorithm to use and its accuracy. 
 
 **Flow of the model**
--Loads the dataset
--Preprocess the data set
--Train on every model available
--Calculates the evaluation metrics
--Suggests the best model according to the metric values
+1.Loads the dataset
+2.Preprocess the data set
+3.Train on every model available
+4.Calculates the evaluation metrics
+5.Suggests the best model according to the metric values
