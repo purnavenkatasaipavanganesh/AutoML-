@@ -1,0 +1,9 @@
+# Web Application Framework
+streamlit
+
+# Data Handling and Analysis
+pandas
+
+# Machine Learning Core Libraries
+# We are using core Scikit-learn models, preprocessors, and metrics
+scikit-learn
